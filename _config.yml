@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:title/
-url: http://dhuliu.github.io/blog
+url: http://dhuliu.github.io/blog/
 name: dhuliu
 author: dhuliu
 email: dhull@163.com
