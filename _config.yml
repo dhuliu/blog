@@ -1,6 +1,7 @@
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
 baseurl: /blog
+url: http://dhuliu.github.io/blog/
 author: liuli
 pygments: true
 safe: true
